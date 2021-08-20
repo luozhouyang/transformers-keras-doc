@@ -7,7 +7,7 @@ Welcome to transformers-keras's documentation!
 ==============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    
    install.md
