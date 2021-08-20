@@ -9,7 +9,9 @@ Welcome to transformers-keras's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-       README.md
+   
+   install.md
+   start.md
 
 
 Indices and tables
