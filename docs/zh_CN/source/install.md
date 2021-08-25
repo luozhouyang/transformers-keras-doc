@@ -1,5 +1,9 @@
 # 安装
 
+`transformers-keras`是使用`Keras`实现的基于`Transformer`模型的库，它可以加载预训练模型的权重，也实现了多个下游的NLP任务。
+
+项目主页：[transformers-keras](https://github.com/luozhouyang/transformers-keras)
+
 
 ## 使用pip安装
 
