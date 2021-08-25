@@ -12,6 +12,7 @@ Welcome to transformers-keras's documentation!
    
    install.md
    start.md
+   advanced.md
 
 
 Indices and tables
