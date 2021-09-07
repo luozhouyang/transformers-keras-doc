@@ -12,6 +12,9 @@ Welcome to transformers-keras's documentation!
    
    install.md
    start.md
+   models.md
+   dataset.md
+   solutions.md
    advanced.md
 
 

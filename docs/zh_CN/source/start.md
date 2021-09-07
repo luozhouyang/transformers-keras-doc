@@ -82,7 +82,7 @@ sequence_outputs, pooled_output, hidden_states, attn_weights = model(inputs=[inp
 * `hidden_states`就是每一层 `hidden_state` stack在一起的输出。它是一个形状为 `(batch_size, num_layers, sequence_length, hiddeb_size)` 的张量。
 * `attn_weights`就是每一层`attention_weights` stack在一起的输出。它是一个形状为 `(batch_size, num_layers, num_attention_heads, sequence_length, sequence_length)` 的张量。
 
-## 使用预训练模型微调下游任务
+## 微调下游任务示例
 
 这里有以下几个示例：
 
